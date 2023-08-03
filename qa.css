@@ -1,0 +1,104 @@
+.row {
+    margin-top: 5%;
+    margin-left: 2%;
+    margin-right: 2%
+}
+
+.page {
+    margin-top: 0%
+}
+
+.btn {
+    border-radius: 7px;
+    width: 80%;
+    margin-top: 2%
+}
+.bold {
+    font-weight: 700;
+}
+.sign {
+    border-radius: 7px;
+    width: 25%;
+    margin: auto
+}
+
+form {
+    padding: 0;
+    margin-left:5%
+}
+
+.abc {
+    padding: 2%;
+    margin: auto;
+}
+
+.xyz {
+    background-color: #3fbbc0;
+    padding: 2%
+    
+}
+textarea
+{
+  border:1px solid #999999;
+  width:100%;
+  margin:5px 0;
+  padding:3px;
+}
+
+.form-control {
+    width: 100%;
+    border-radius: 7px
+}
+hover {
+    color: #65c9cd;
+    text-decoration: none;
+  }
+  
+.fa {
+    color: white;
+    margin-top: 5%
+}
+
+.in {
+    color: #495057;
+   float: left;
+}
+
+.in2 {
+    color: #495057;
+    margin-right: auto
+}
+
+.my {
+    background-color: #bcc2be;
+    border: none
+}
+
+.custom-control {
+    margin-bottom: 2%
+}
+
+h2.account-text {
+    color: #fff !important;
+    font-weight: 200
+}
+
+.account-description {
+    color: #fff;
+    margin-bottom: 4%;
+    font-weight: 200
+}
+
+@media only screen and (max-width: 600px) {
+    row {
+        margin-top: 5%;
+        margin-left: 1%;
+        margin-right: 1%
+    }
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Roboto", sans-serif;
+  }
+h1 {
+    font-size: 50px;
+}
